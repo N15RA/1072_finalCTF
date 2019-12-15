@@ -1,0 +1,26 @@
+version: "3"
+services:
+  blog:
+    build: Blog
+    ports:
+     - "8787:80"
+  easy:
+    build: Easy
+    ports:
+     - "8788:8080"
+  flask:
+    build: Flask
+    ports:
+     - "8789:5000"
+  flask-d33p3r:
+    build: Flask-d33p3r
+    ports:
+     - "10101:5000"
+  try:
+    build: Try
+    ports:
+     - "8791:8080"
+  where:
+    build: Where
+    ports:
+     - "8792:8080"

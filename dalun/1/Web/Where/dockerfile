@@ -1,0 +1,7 @@
+FROM ubuntu
+MAINTAINER roy@nisra.net
+
+WORKDIR /root
+COPY ./where .
+
+CMD ["./where"]

@@ -1,0 +1,12 @@
+FROM debian
+
+WORKDIR /tmp
+
+COPY . /tmp/.
+
+RUN apt update -y
+RUN apt install ffmpeg obs-studio wget xvfb -y 
+
+EXPOSE 1935
+
+ENTRYPOINT /tmp/run.sh

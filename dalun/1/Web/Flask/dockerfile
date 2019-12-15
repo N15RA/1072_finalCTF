@@ -1,0 +1,12 @@
+FROM python
+
+WORKDIR /root
+COPY . .
+
+RUN pip install flask
+
+ENV FLASK_APP=main.py
+ENV FLAG=NISRA{f1r57_fl45k_ch4ll}
+ENV FLASK_DEEPER=chall.nisra.net:10101
+
+ENTRYPOINT flask run --host=0.0.0.0

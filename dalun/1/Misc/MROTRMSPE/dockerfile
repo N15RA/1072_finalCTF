@@ -1,0 +1,8 @@
+FROM jrottenberg/ffmpeg
+
+WORKDIR /tmp
+COPY . /tmp
+
+EXPOSE 1935
+
+ENTRYPOINT /tmp/run.sh

@@ -1,0 +1,8 @@
+FROM ubuntu
+MAINTAINER roy@nisra.net
+
+WORKDIR /root
+COPY ./try .
+COPY ./tmpl/ ./tmpl/
+
+CMD ["./try"]

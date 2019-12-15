@@ -1,0 +1,5 @@
+FROM mattrayner/lamp:latest-1804
+
+COPY . /var/www/html/
+
+CMD ["/run.sh"]

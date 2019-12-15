@@ -1,0 +1,191 @@
+{
+    "teams": [
+        {
+            "name": "ch3ss",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": false,
+            "password_hash": "$2y$12$TxdQP5BGAEtfilqaiAK0N.Pzd0UGSH3YioTlF7prBJrxiB9T9WKs.",
+            "points": 298,
+            "logo": "thumbsup",
+            "data": {}
+        },
+        {
+            "name": "chess",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": false,
+            "password_hash": "$2y$12$NRGBnFXl.eTEX8l0DhdVm.4ZTtD.DBrmrobJ.4xtDy49hRWYovYR2",
+            "points": 203,
+            "logo": "chess-knight",
+            "data": {}
+        },
+        {
+            "name": "Roy_g0D",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": false,
+            "password_hash": "$2y$12$Ltp9i0iqjv\/2YM6CEzvHoe9bUe.N6EGwO4pF89o0wz9OAfNAbETMi",
+            "points": 105,
+            "logo": "barking",
+            "data": {}
+        },
+        {
+            "name": "Mask",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$PwuRtXVdtd.Nv\/qP6m4KTOofBPU8md61YFoBXffETRWjhq9YaSPJC",
+            "points": 93,
+            "logo": "alien-3",
+            "data": {}
+        },
+        {
+            "name": "0a",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$iaAXNvN61pJMg0qH31G6K.nVOXKXB8DgKN9X55jKWQjMlxuz9dCWK",
+            "points": 83,
+            "logo": "b",
+            "data": {}
+        },
+        {
+            "name": "dogQ",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$fdB7dYft8Ia\/ZgnX9Z1FHeGOU6q.WoxFt6F5Hmr1jybcwVLMv4WOK",
+            "points": 68,
+            "logo": "bar-graph",
+            "data": {}
+        },
+        {
+            "name": "dalun",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": false,
+            "password_hash": "$2y$12$yjDU5Cps6EbggIWrXZ96VOSQdbjVxEl9tWy2PKKffBi8srQK.Amw.",
+            "points": 65,
+            "logo": "4chan-2",
+            "data": {}
+        },
+        {
+            "name": "ABCDEEE",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$mT5icXsY09Q942n25\/vd6O2JhD9OsAD\/ii8MsinlKIYb70DpVTMSq",
+            "points": 48,
+            "logo": "alien",
+            "data": {}
+        },
+        {
+            "name": "momo",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$f9D26AVpULl9KNWynejgvOjx3COe8YIJdV586IHJXHQHiDkbWuo3S",
+            "points": 33,
+            "logo": "wifi",
+            "data": {}
+        },
+        {
+            "name": "roy",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$DV4JXRuVJQfazzTx5d1n2O8U3\/JgPa3pPHeyOya3LXE03pGKiV4xO",
+            "points": 17,
+            "logo": "ax",
+            "data": {}
+        },
+        {
+            "name": "admin",
+            "active": true,
+            "admin": true,
+            "protected": true,
+            "visible": false,
+            "password_hash": "$2y$12$TEtLzpO92dcnZIyemuqTieMylCPn\/h2ouTrOc1r4XrPZcBYkXF0pm",
+            "points": 2,
+            "logo": "admin",
+            "data": {}
+        },
+        {
+            "name": "Arcadia",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$Opp5ejMCteW0Kx2tCqfEOeDVXIG1WL\/\/JaeSmZj.S2pWItttFnxz2",
+            "points": 2,
+            "logo": "face-star",
+            "data": {}
+        },
+        {
+            "name": "crazyFire",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$tiOp\/tCmzZq0t6FH\/23oOeriXq1P1n38L9naT6VvlOxraAtPb65PK",
+            "points": 2,
+            "logo": "apple",
+            "data": {}
+        },
+        {
+            "name": "123",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$aTRmVRuVIOC6Z3GDn4f2KOXVOqc46o2XtujGxMopw0AfJDGhuTK9W",
+            "points": 0,
+            "logo": "4chan",
+            "data": {}
+        },
+        {
+            "name": "roy4801",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": false,
+            "password_hash": "$2y$12$5DMhw5WAbEqFPYu2KJP9JOzbxpRYJ.pUVrWPDd7YZw4y6tuyaJl7C",
+            "points": 0,
+            "logo": "anchor",
+            "data": {}
+        },
+        {
+            "name": "test",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": false,
+            "password_hash": "$2y$12$wJ8DzWq3zkXKqRro4KblH.ZYpjqMi2IsKvg8o1Oi5ptKCSGSzzqo2",
+            "points": 0,
+            "logo": "8ball",
+            "data": {}
+        },
+        {
+            "name": "\u8cc7\u5de5\u6d63\u718a",
+            "active": true,
+            "admin": false,
+            "protected": false,
+            "visible": true,
+            "password_hash": "$2y$12$T91H2uolGLcYhIG2ZNQ5punu40IQO6hVYBm4j0NkiTRRb5gssuoru",
+            "points": 0,
+            "logo": "basketball-hoop",
+            "data": {}
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+FROM newdeveloper/apache-php
+
+COPY . /var/www/html/
+
+RUN rm -f /var/run/apache2/apache2.pid
+ENV FLAG=NISRA{.g17_s33m5_600d_T0_cr4wl}
+
+CMD ["apachectl", "-DFOREGROUND"]

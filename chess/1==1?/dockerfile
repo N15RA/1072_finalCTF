@@ -1,0 +1,11 @@
+FROM php:7.2-apache
+
+MAINTAINER ChessKuo <gyc880323@gmail.com>
+
+COPY src/ /var/www/html
+
+WORKDIR /var/www/html
+RUN chown -R www-data:www-data /var/www/html & \
+	usermod -G www-data root
+
+EXPOSE 80

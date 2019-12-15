@@ -1,0 +1,32 @@
+{
+    "categories": [
+        {
+            "category": "Crypto",
+            "protected": false
+        },
+        {
+            "category": "Misc",
+            "protected": false
+        },
+        {
+            "category": "None",
+            "protected": true
+        },
+        {
+            "category": "Pwn",
+            "protected": false
+        },
+        {
+            "category": "Quiz",
+            "protected": true
+        },
+        {
+            "category": "Reverse",
+            "protected": false
+        },
+        {
+            "category": "Web",
+            "protected": false
+        }
+    ]
+}

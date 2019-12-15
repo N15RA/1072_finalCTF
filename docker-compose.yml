@@ -1,0 +1,20 @@
+version: "3"
+services:
+    1eq1:
+      build: chess/1==1?/
+      ports:
+        - "9100:80"
+      container_name: 1_eq_1
+      restart: always
+    developer_tool:
+      build: chess/developer tool/
+      ports:
+        - "9101:80"
+      container_name: developer_tool
+      restart: always
+    php_proto:
+      build: chess/php proto/
+      ports:
+        - "9102:80"
+      container_name: php_proto
+      restart: always
